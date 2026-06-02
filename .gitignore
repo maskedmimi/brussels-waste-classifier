@@ -1,0 +1,11 @@
+# Dossiers lourds ou non versionnés
+data/
+models/
+claude_code/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
